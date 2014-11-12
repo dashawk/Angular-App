@@ -1,0 +1,9 @@
+{
+	"name": "Test AngularJS with RequireJS",
+	"version": "1.0",
+	"dependencies": {
+		"jquery": null,
+		"angular": null,
+		"requirejs": null
+	}
+}
