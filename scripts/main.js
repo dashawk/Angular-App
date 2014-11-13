@@ -6,7 +6,7 @@
 		// Load configurations
 		require.config(Config);
 		
-		require(['../scripts/app/controllers/testController', 'App'], function () {
+		require(['App', '../scripts/app/controllers/testController'], function () {
 			angular.bootstrap(document, ['App']);
 		});
 	});
